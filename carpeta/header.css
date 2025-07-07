@@ -7,7 +7,10 @@
     background-color: rgb(110, 110, 192);
 }
 
-.header h2{
+.guia{
+    background-color: rgb(158, 158, 238);
+    align-items: center;
+    text-align: center;
     padding: 20px;
     font-size: 40px;
 }

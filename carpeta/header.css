@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    border: 1px solid rgb(191, 191, 221);
+    background-color: rgb(110, 110, 192);
+}
+
+.header h2{
+    padding: 20px;
+    font-size: 40px;
+}
